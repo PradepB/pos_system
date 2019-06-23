@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("5d0e00e19f4b3c23f4b33d45"), 
+    "product" : "Food", 
+    "price" : 50.0, 
+    "isImported" : true
+}
+{ 
+    "_id" : ObjectId("5d0e00fd9f4b3c23f4b33d46"), 
+    "product" : "Books", 
+    "price" : 40.0, 
+    "isImported" : false
+}
+{ 
+    "_id" : ObjectId("5d0e01059f4b3c23f4b33d47"), 
+    "product" : "Music", 
+    "price" : 30.0, 
+    "isImported" : true
+}

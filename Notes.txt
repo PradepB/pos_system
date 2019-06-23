@@ -1,0 +1,11 @@
+Api method: Post
+
+Api Name:
+localhost:8080/product_api/calculateTax
+
+Api with parameters:
+localhost:8080/product_api/calculateTax?Books=12&Food=2&Music=5
+
+Database name:
+pos_system
+
